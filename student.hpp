@@ -1,5 +1,3 @@
-
-//Luka Cuk & Ritesh Nandakumar
 //ENSC 251 Lab Assingment 3 
 //
 //header file student.hpp to declare the class ToeflScore, the class Student, and child classes of 

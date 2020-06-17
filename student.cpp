@@ -1,5 +1,4 @@
-//Luka Cuk and Ritesh Nandakumar
-//ENSC 251 Assignment 3
+
 //
 //student.cpp to define our classes, including member functions like an error check
 //and constructors
